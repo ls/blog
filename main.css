@@ -1,0 +1,30 @@
+body {
+  background: #4D4D5C;
+  font-family: Helvetica;
+  color: #FFF;
+}
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: #FFF;
+}
+
+.card {
+  background: #FFF;
+  color: #333;
+  border-radius: 3px;
+  padding: 10px 15px;
+  max-width: 600px;
+  margin: 15px auto;
+  text-align: center;
+}
+
+.card-body {
+  text-align: left;
+}
